@@ -62,5 +62,5 @@ python pract_factorial.py
 ## Требования
 
 - Python 3.x
-- Модуль `math` (входит в стандартную библиотеку Python)
-- </details>
+- Модуль `math` (входит в стандартную библиотеку Python) 
+</details>
